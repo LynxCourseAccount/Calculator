@@ -3,4 +3,4 @@
 Demo
 ====
 
-**[DEMO](https://orischenko.github.io/Calculator/)**
+**[DEMO](https://orischenko.github.io/Calculator/index.html)**
